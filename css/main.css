@@ -697,7 +697,7 @@ td, th {
   .buttons:hover {
     cursor: pointer;
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1);
-    background-color: #46dbf9;
+    background-color: #e4464b;
     color: #fff !important;
     border: 1px solid transparent; }
     .buttons:hover a {
@@ -722,7 +722,7 @@ td, th {
     .buttons.dark a {
       color: #fff; }
     .buttons.dark:hover {
-      background-color: #46dbf9;
+      background-color: #e4464b;
       border: 1px solid transparent; }
   .buttons.gray {
     background-color: #393939;
