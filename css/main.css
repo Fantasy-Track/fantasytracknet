@@ -692,7 +692,7 @@ td, th {
   .buttons i {
     font-size: 44px;
     padding-right: 20px;
-    color: #eeeeee;
+    color: #000;
     margin-top: -8px; }
   .buttons:hover {
     cursor: pointer;
